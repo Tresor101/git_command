@@ -1,9 +1,24 @@
 *{
     font-family:'Times New Roman', Times, serif;
+    background-image: url(./full\ background.jpg) ;
 }
+.card{
+    color: white ;
+}
+
 img{
     width: 5cm;
     height: 10cm;
+}
+.button{
+    border: none;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    border-radius: 12px;
 }
 footer{
     position: fixed;
