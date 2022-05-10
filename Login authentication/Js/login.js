@@ -7,4 +7,3 @@ function verification(){
         alert("Unsuccessful LogIn");
     }
 } 
-
